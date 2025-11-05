@@ -498,3 +498,8 @@ Options:
 
 For developers interested in contributing to this project, please see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
+## Licensing
+
+- Source code: Licensed under [AGPLv3](./LICENSE)
+- Music files (under `/assets/music/`): Generated using Suno AI (free plan).  
+  Non-commercial use only, attribution required. See [assets/music/LICENSE](./assets/music/LICENSE) for details.
